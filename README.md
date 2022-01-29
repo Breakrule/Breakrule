@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Breakrule&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=Breakrule&label=Profile%20views&color=0e75b6&style=flat"
     alt="Breakrule" /> 
   </p>
 
@@ -40,10 +40,18 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> 
-
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/Breakrule/breakrule/blob/main/icons/visual-studio-code.png"
+      alt="android" width="40" height="40" /></a>
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/Breakrule/breakrule/blob/main/icons/android-studio.png"
+      alt="android" width="40" height="40" /></a>
+   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/Breakrule/breakrule/blob/main/icons/intellij.png"
+      alt="android" width="40" height="40" /></a>
+   <a href="https://www.anaconda.com/products/individual" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/Breakrule/breakrule/blob/main/icons/icons8-anaconda-240.png"
+      alt="android" width="40" height="40" /></a>
 </br>
 
 <br>
