@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/17343-programming.gif" alt="Breakrule"  width="400" height="400" /></p>
+<p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/icons/17343-programming.gif" alt="Breakrule"  width="400" height="400" /></p>
 
 <!-- <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
  -->
@@ -105,13 +105,6 @@
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Breakrule&theme=onedark"><img
       src="https://github-profile-trophy.vercel.app/?username=Breakrule" alt="Breakrule" /></a> </p>
-      
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+     
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-[Breakrule](https://github.com/Breakrule)
