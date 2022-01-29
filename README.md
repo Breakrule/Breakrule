@@ -84,3 +84,11 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en" alt="Breakrule" /></p>
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Breakrule&" alt="Breakrule" /></p>
 </br>
+
+<h3>Trophies :-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=Breakrule&column=3&margin-w=15&margin-h=15
+e" alt="adam-pw" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
