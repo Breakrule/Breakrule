@@ -44,12 +44,12 @@
       alt="android" width="40" height="40" /></a>
 </br>
 
-<h3 align="left">My Statistic :/h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact" alt="Breakrule" />
+<h3 align="left">My Statistic :</h3>
+<p>
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact" alt="Breakrule" />
 </p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en" alt="Breakrule" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Breakrule&" alt="Breakrule" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en" alt="Breakrule" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Breakrule&" alt="Breakrule" /></p>
 </br>
