@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rezky Maulana</h1>
 <h3 align="center">Student at ITTP, Purwokerto🌟.</h3>
-<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/rezky-maulana/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
