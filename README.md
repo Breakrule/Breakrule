@@ -46,8 +46,8 @@
 
 <h3>Statistical Data :</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact"
-    alt="Breakrule" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact" alt="Breakrule" />
+</p>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en" alt="Breakrule" /></p>
@@ -55,10 +55,9 @@
 </br>
 
 <br>
-<h3>Trophies :
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Breakrule&theme=onedark"><img
-      src="https://github-profile-trophy.vercel.app/?username=Breakrule" alt="Breakrule" /></a> </p>
- </br>
+<h3>Trophies :</h3>
+<p align="left" href="https://github-profile-trophy.vercel.app/?username=Breakrule&theme=onedark" alt="Breakrule"/> </p>
+</br>
      
 
 ------------------------------------------------------------------------------------------------------------------------------------------
