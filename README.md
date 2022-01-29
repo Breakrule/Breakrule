@@ -14,13 +14,9 @@
   <a href="https://instagram.com/rezky.gg" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="rezky.gg" height="30" width="40" /></a>
+  <h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=Breakrule&label=Profile%20views&color=0e75b6&style=flat" alt="Breakrule"/>
 </p>
-
-<br>
-<p align="center"> <h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=Breakrule&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Breakrule" /> 
-  </p>
-<br>
+<h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=Breakrule&label=Profile%20views&color=0e75b6&style=flat" alt="Breakrule"/> 
 
 <p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/icons/18123-developer.gif" alt="Breakrule"  width="400" height="400" /></p>
 
