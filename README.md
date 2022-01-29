@@ -55,8 +55,7 @@
 </br>
 
 <br>
-<h3>Trophies :</h3>
-<p align="left" href="https://github-profile-trophy.vercel.app/?username=Breakrule&theme=onedark" alt="Breakrule"/> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
 </br>
      
 
