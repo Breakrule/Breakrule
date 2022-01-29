@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Rezky Maulana" height="30" width="40" /></a>
   <a href="https://medium.com/@rezkymaulanagt" target="blank"><img align="center"
-      src="https://github.com/Breakrule/breakrule/blob/main/icons/medium.png"
+      src="https://github.com/Breakrule/breakrule/blob/main/icons/Medium_logo_Monogram.svg"
       alt="Rezky Maulana" height="30" width="40" /></a>
   <a href="https://www.facebook.com/rezkyweb/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
