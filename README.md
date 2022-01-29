@@ -57,7 +57,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en"
     alt="Breakrule" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Breakrule&" alt="Breakrule" /></p>
-
+</br>
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Breakrule&theme=onedark"><img
