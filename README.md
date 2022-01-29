@@ -92,7 +92,3 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img
    src="https://github-profile-trophy.vercel.app/?username=Breakrule&column=3&margin-w=15&margin-h=15" alt="Breakrule" /></a>
 </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-------------------------------------------------------------------------------------------------------------------------------------------
