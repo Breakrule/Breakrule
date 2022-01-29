@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/icons/18123-developer.gif" alt="Breakrule"  width="400" height="400" /></p>
+<p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/icons/18123-developer.gif" alt="Breakrule"  width="300" height="300" /></p>
 
 - 🌱 I’m currently learning Mobile Application Programming using Flutter and Python
 
