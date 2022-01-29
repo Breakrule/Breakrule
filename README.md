@@ -11,9 +11,9 @@
   <a href="https://instagram.com/rezky.gg" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="rezky.gg" height="30" width="40" /></a>
-<!--   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
+  <a href="https://medium.com/@rezkymaulanagt" target="blank"><img align="center"
+      src="https://github.com/Breakrule/breakrule/blob/main/icons/mediumwhite.png"
+      alt="Rezky Maulana" height="30" width="40" /></a>
 </p>
 <br>
 
