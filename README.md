@@ -9,7 +9,10 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/17343-programming.gif" alt="Breakrule" /></p>
+<p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/17343-programming.gif" alt="Breakrule"  width="500" height="600" /></p>
+
+<!-- <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+ -->
 
 
 - 🌱 I’m currently learning Mobile Application Programming using Flutter and Python
