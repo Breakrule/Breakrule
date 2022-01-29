@@ -49,7 +49,9 @@
       src="https://github.com/Breakrule/breakrule/blob/main/icons/adobe-photoshop.png"
       alt="photoshop" width="40" height="40" /></a>
 </br>
-
+<br>
+<br>
+<br>
 <h3 align="left">Tech:</h3>
 <p align="left">
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
@@ -76,11 +78,7 @@
 </br>
 
 <h3 align="left">My Statistic :</h3>
-<p>
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact" alt="Breakrule" />
-</p>
-<br>
-<br>
+<p> <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact" alt="Breakrule"/></p>
   <p align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en" alt="Breakrule" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Breakrule&" alt="Breakrule" /></p>
