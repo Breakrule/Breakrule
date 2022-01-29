@@ -44,7 +44,7 @@
       alt="android" width="40" height="40" /></a>
 </br>
 
-<h3>Statistical Data :</h3>
+<h3 align="left">My Statistic :/h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Breakrule&show_icons=true&locale=en&layout=compact" alt="Breakrule" />
 </p>
@@ -53,10 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&locale=en" alt="Breakrule" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Breakrule&" alt="Breakrule" /></p>
 </br>
-
-<br>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
-</br>
-     
-
-------------------------------------------------------------------------------------------------------------------------------------------
