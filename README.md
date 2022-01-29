@@ -21,13 +21,6 @@
 
 <p><img align="right" src="https://github.com/Breakrule/breakrule/blob/main/icons/18123-developer.gif" alt="Breakrule"  width="350" height="350" /></p>
 
-- 🌱 I’m currently learning Mobile Application Programming using Flutter and Python
-
-- 📫 How to reach me **rezkymaulanagt@gmail.com**
-
-<!-- - ⚡ Fun fact :- food and anime are the reasons to live.
- -->
-
 <h3 align="left">Tools:</h3>
 <p align="left">
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
