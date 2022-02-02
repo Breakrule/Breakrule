@@ -84,5 +84,3 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img
    src="https://github-profile-trophy.vercel.app/?username=Breakrule&no-frame=true&theme=algolia" alt="Breakrule" /></a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Breakrule&show_icons=true&theme=nightowl&locale=en" alt="Rezky" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Breakrule" alt="rezky" /></a></p>
-
