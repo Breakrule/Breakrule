@@ -53,15 +53,9 @@
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/Breakrule/breakrule/blob/main/icons/icons8-firebase-480.png"
       alt="Firebase" width="40" height="40" /></a>
-   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/Breakrule/breakrule/blob/main/icons/java.png"
-      alt="Java" width="40" height="40" /></a>
    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/Breakrule/breakrule/blob/main/icons/python.png"
       alt="Python" width="40" height="40" /></a>
-   <a href="https://www.w3schools.com/CPP/default.asp" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/Breakrule/breakrule/blob/main/icons/c-.png"
-      alt="C++" width="40" height="40" /></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/Breakrule/breakrule/blob/main/icons/mysql.svg"
       alt="MySql" width="40" height="40" /></a>
